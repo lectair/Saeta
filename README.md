@@ -44,9 +44,6 @@ In my computer it scrapes ≈100.000 hosts with 1200 total ports (like Shodan) e
 
 _Personal note: ... although I think 3 months isn't a crazy long time to scan every single IP address, but it would be mildly outdated by the time you finish._
 
-**Warning:** Port scanning may be considered illegal in some countries, so **use this at your own risk.**
-
-
 ## Contributing
 
 Contributions are always welcome! Feel free to send a PR and I will review it as soon as possible.
@@ -60,3 +57,7 @@ If you want to collaborate and don't know where to start, please start writing t
 ## Tech Stack
 
 This project is mainly based on **Masscan & Nmap**
+
+## Warning
+
+** Port scanning may be considered illegal in some countries, so use this at your own risk.**
