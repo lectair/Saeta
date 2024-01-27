@@ -50,7 +50,7 @@ _Personal note: ... although I think 3 months isn't a crazy long time to scan ev
 Contributions are always welcome! Feel free to send a PR and I will review it as soon as possible.
 Also post an issue if you have ideas or you see anything that you think is wrong. Please remember previously mentioned info, this app is **under construction.**
 
-If you want to collaborate and don't know where to start, please start writing tests/connecting frontend and backend.
+If you want to collaborate and don't know where to start, please start writing tests/connecting frontend and backend/adding IPv6 support.
 
 Also, a public ElasticSearch server could be setup where users can upload their own data and make this a truly free and without restrictions alternative to Shodan without the need of running it locally 24/7, but every uploader would be strongly appreciated.
 
