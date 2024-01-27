@@ -52,6 +52,8 @@ Also post an issue if you have ideas or you see anything that you think is wrong
 
 If you want to collaborate and don't know where to start, please start writing tests/connecting frontend and backend.
 
+Also, a public ElasticSearch server could be setup where users can upload their own data and make this a truly free and without restrictions alternative to Shodan without the need of running it locally 24/7, but every uploader would be strongly appreciated.
+
 **Please give this repo a star if you think it's useful :)**
 
 
