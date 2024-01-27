@@ -24,6 +24,7 @@ To see a glimpse on what the frontend will look like, go into `saeta/frontend` a
 ```
 
 Then open http://127.0.0.1:8000/search on your browser of choice
+
 ## Run Locally
 
 **Frontend and backend are not yet connected**, but you can start saving data into your ElasticSearch database (although it only saves open ports in hosts, reason and TTL. **NOT GRABBING BANNERS YET**).
@@ -57,6 +58,15 @@ If you want to collaborate and don't know where to start, please start writing t
 ## Tech Stack
 
 This project is mainly based on **Masscan & Nmap**
+
+
+## Screenshots
+Frontend
+<img width="1440" alt="Search Frontend" src="https://github.com/lectair/Saeta/assets/59050136/2a9fee75-c2c7-459a-9bc8-b7c48829d871">
+
+Elastic Backend
+<img width="1121" alt="Elastic Backend" src="https://github.com/lectair/Saeta/assets/59050136/f551e97d-f5a1-4b85-ad05-20d6b255b5a4">
+
 
 ## Warning
 
