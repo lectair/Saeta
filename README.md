@@ -41,7 +41,7 @@ This will start scraping services and uploading data to Elastic, netblock by net
 You can change socket throughput by changing `masscanMaxRate` variable. This is measured by open connections per second.
 
 
-In my computer it scrapes ≈100.000 hosts with 1200 total ports (like Shodan) every 5:30 hours, via WiFi **(Macbook Pro 2017 13")**. On a single computer like mine, I calculated it would take roughly **3 months** non-stop to scan the **whole IPv4 range** (without banner grabbing), **setting this on multiple VPS' would lower this time dramatically...**
+In my computer it scrapes ≈100.000 hosts with 1200 total ports (like Shodan) every 5:30 hours, via WiFi **(Macbook Pro 2017 13")**. On a single computer like mine, I calculated it would take roughly **3 months** non-stop to scan the **whole IPv4 range** (without banner grabbing), **setting this up on multiple VPS' would lower this time dramatically...**
 
 _Personal note: ... although I think 3 months isn't a crazy long time to scan every single IP address, but it would be mildly outdated by the time you finish._
 
