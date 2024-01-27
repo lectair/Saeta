@@ -28,7 +28,7 @@ Then open http://127.0.0.1:8000/search on your browser of choice
 
 **Frontend and backend are not yet connected**, but you can start saving data into your ElasticSearch database (although it only saves open ports in hosts, reason and TTL. **NOT GRABBING BANNERS YET**).
 
-Go into `saeta/backend` and run `main.py` (make sure to have your ElasticSearch database properly installed and running)
+Go into `saeta/backend` and run `main.py` (make sure to have your ElasticSearch database properly installed and running, *replace lines 66 & 74 with your ElasticSearch port. You must have an index called `_saeta`*)
 
 ```bash
   cd saeta\backend
