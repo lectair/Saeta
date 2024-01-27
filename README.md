@@ -16,7 +16,7 @@ For the moment, just install Pipfile dependencies using pipenv on root folder
 
 ## Deployment
 
-To see a glimpse on what the frontend will look like, go into `saeta\frontend` and run main file with uvicorn
+To see a glimpse on what the frontend will look like, go into `saeta/frontend` and run main file with uvicorn
 
 ```bash
   cd saeta\frontend
@@ -28,7 +28,7 @@ Then open http://127.0.0.1:8000/search on your browser of choice
 
 **Frontend and backend are not yet connected**, but you can start saving data into your ElasticSearch database (although it only saves open ports in hosts, reason and TTL. **NOT GRABBING BANNERS YET**).
 
-Go into `saeta\backend` and run `main.py` (make sure to have your ElasticSearch database properly installed and running)
+Go into `saeta/backend` and run `main.py` (make sure to have your ElasticSearch database properly installed and running)
 
 ```bash
   cd saeta\backend
