@@ -1,6 +1,6 @@
 # Saeta
 
-(This README.md and repository is **under construction**)
+_(This README.md and repository is **under construction**)_
 
 Capable of massively asynchronously scanning all Internet, detecting every host and its open ports, extracting banners to discover services and details (HTTP Servers, E-mail, etc.), later adding them to an ElasticSearch DB to search for vulnerable services or sensitive information.
 
@@ -42,7 +42,7 @@ You can change socket throughput by changing `masscanMaxRate` variable. This is 
 
 In my computer it scrapes ≈100.000 hosts with 1200 total ports (like Shodan) every 5:30 hours, via WiFi **(Macbook Pro 2017 13")**. On a single computer like mine, I calculated it would take roughly **3 months** non-stop to scan the **whole IPv4 range** (without banner grabbing), **setting this on multiple VPS' would lower this time dramatically.**
 
-Personal note: ... although I think 3 months isn't a crazy long time to scan every single IP address, but it would be mildly outdated by the time you finish.
+_Personal note: ... although I think 3 months isn't a crazy long time to scan every single IP address, but it would be mildly outdated by the time you finish._
 
 **Warning:** Port scanning may be considered illegal in some countries, so **use this at your own risk.**
 
